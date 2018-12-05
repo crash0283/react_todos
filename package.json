@@ -16,7 +16,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage" : "https://crash0283.github.io/react_todos",
+  "homepage" : "http://crash0283.github.io/react_todos",
   "eslintConfig": {
     "extends": "react-app"
   },
