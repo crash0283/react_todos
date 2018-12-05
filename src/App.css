@@ -1,0 +1,9 @@
+body {
+  background-color: mediumaquamarine;
+}
+
+.container {
+  height: 100vh;
+  background-color: beige;
+  box-shadow: 0 0 10px black;
+}
